@@ -1,14 +1,12 @@
-# Tahsin Masruf
-![Tahsin Masruf](assets/circle.png)
 
 I'm passionate about using data to solve complex problems and create innovative solutions. With a solid foundation in programming and statistical analysis, I'm excited to leverage my skills and knowledge to make an impact in the field of Data Engineering. 
 
-# Education
+# **Education**
 
-## Stamford University Bangladesh
+### Stamford University Bangladesh
   BSc in Computer Science and Engineering.
 
-# Projects
+# **Projects**
 
 1. [Sales Analysis End to End Data Engineering Project Using Azure Cloud Services and Power BI](https://github.com/TahsinPavel/Sales-Analysis-End-to-End-Data-Engineering-Project-Using-Azure-Cloud-Services-and-Power-BI): In this project, I have developed a robust data architecture using Azure services. Specifically, I utilized Azure Data Lake Gen2 for storage, Azure Data Factory for pipeline creation to facilitate data movement and transformation, and Azure Synapse Analytics for efficient data warehousing and analytics. The data cleaning and transformation process is handled seamlessly with Azure Databricks, leveraging the power of Spark. To visualize the analysis, Microsoft Power BI is employed, creating interactive and up-to-date dashboards. The automation implemented ensures that with the upload of new data to the data warehouse, the entire process is triggered automatically, resulting in the latest reports being updated in Power BI. This real-time updating mechanism ensures that decision-makers have access to the most current insights. Overall, this architecture is well-integrated, scalable, and designed to handle end-to-end data processing and analytics workflows efficiently, embracing modern cloud-based solutions for enhanced scalability and flexibility.
    
@@ -21,31 +19,31 @@ I'm passionate about using data to solve complex problems and create innovative 
 5. [Handwritten Digit Recognition with PyTorch](https://github.com/TahsinPavel/Handwritten-Digit-Recognition-with-PyTorch): This convolution neural network model that trained with MNIST Handwritten digit dataset. The model can recognize Handwritten digit with the accuracy of 98%. The Loss function of this model is about 0.0003%.
 
 
-# Skills
+# **Skills**
 
-- ## Programming Languages:
+- ### Programming Languages:
   Python, SQL
-- ## Frameworks and Libraries:
-  Numpy, Pandas, PyTorch, Tensorflow, Scikit-Learn, keras, Spark(Pyspark), 
+- ### Frameworks and Libraries:
+  Numpy, Pandas, PyTorch, Tensorflow, Scikit-Learn, keras, Spark(Pyspark), NLTK
 - ## Other Skills:
   Machine Learning, Deep Learning, Computer Vision, Azure data factory, Azure synapse analytics, Power BI, Databricks, ETL process, Data Warehousing
 
-# Research Work
+# **Research Work**
 
-- ## Paper Title:
+- ### Paper Title:
      Enhancing StarGAN with Identity Loss, Pixel Loss, and Triple Consistency Loss for Face Age Progression.
   
-- ## Paper Title:
+- ### Paper Title:
      Diagnosis of Covid-19 from chest X-Ray Image using convolution Neural Network with K-Fold Cross Validation.
 
-# Contact
+# **Contact**
 
-- ## Email:
+- ### Email:
   tahsinpavel@gmail.com
   
-- ## LinkedIn:
+- ### LinkedIn:
   [Tahsin Masruf](https://www.linkedin.com/in/tahsin-masruf/)
   
-- ## Kaggle:
+- ### Kaggle:
   [Tahsin Masruf](https://www.kaggle.com/tahsinmasruf)
 
