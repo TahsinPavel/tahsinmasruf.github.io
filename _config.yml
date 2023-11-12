@@ -1,4 +1,15 @@
-title: Tahsin Masruf
-logo: ![Tahsin Masruf](tahsinmasruf.github.io/assets/logo.png)
-description: Researcher Enthusiast | ML/Data Engineer | Data & Machine Learning
-remote_theme: pages-themes/slate@v0.2.0
+title         : Tahsin Masruf
+#logo          : ![Tahsin Masruf](tahsinmasruf.github.io/assets/logo.png)
+#description   : Researcher Enthusiast | ML/Data Engineer | Data & Machine Learning
+remote_theme  : pages-themes/slate@v0.2.0
+url           : https://tahsinmasruf.github.io
+
+# Site Author
+author:
+  name             : "Tahsin Masruf"
+  avatar           : "circle.png"
+  bio              : "Researcher Enthusiast | ML/Data Engineer | Data & Machine Learning"
+  facebook         : "https://www.facebook.com/thasinpavel/"
+  linkedin         : "https://www.linkedin.com/in/tahsin-masruf/"
+  twitter          :
+  kaggle           : "https://www.kaggle.com/tahsinmasruf"
