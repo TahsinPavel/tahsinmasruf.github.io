@@ -1,50 +1,55 @@
-# Tahsin Masruf
+# Data Scientist
 
-I'm passionate about using data to solve complex problems and create innovative solutions. With a solid foundation in programming and statistical analysis, I'm excited to leverage my skills and knowledge to make an impact in the field of Data Engineering. 
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-# Education
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-## Stamford University Bangladesh
-  BSc in Computer Science and Engineering.
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-# Projects
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-1. [Sales Analysis End to End Data Engineering Project Using Azure Cloud Services and Power BI](https://github.com/TahsinPavel/Sales-Analysis-End-to-End-Data-Engineering-Project-Using-Azure-Cloud-Services-and-Power-BI): In this project, I have developed a robust data architecture using Azure services. Specifically, I utilized Azure Data Lake Gen2 for storage, Azure Data Factory for pipeline creation to facilitate data movement and transformation, and Azure Synapse Analytics for efficient data warehousing and analytics. The data cleaning and transformation process is handled seamlessly with Azure Databricks, leveraging the power of Spark. To visualize the analysis, Microsoft Power BI is employed, creating interactive and up-to-date dashboards. The automation implemented ensures that with the upload of new data to the data warehouse, the entire process is triggered automatically, resulting in the latest reports being updated in Power BI. This real-time updating mechanism ensures that decision-makers have access to the most current insights. Overall, this architecture is well-integrated, scalable, and designed to handle end-to-end data processing and analytics workflows efficiently, embracing modern cloud-based solutions for enhanced scalability and flexibility.
-   
-2. [Resume Classification](https://github.com/TahsinPavel/Resume-Classification): This project is a comprehensive solution for automating the task of resume categorization and analysis.
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-3. [Machine Learning Model for Predictive Maintenance](https://github.com/TahsinPavel/Machine-Learning-Model-for-Predictive-Maintenance-): A major problem faced by businesses in asset-heavy industries such as manufacturing is the significant costs that are associated with delays in the production process due to mechanical problems. Most of these businesses are interested in predicting these problems in advance so that they can proactively prevent the problems before they occur which will reduce the costly impact caused by downtime. In this project azure IOT dataset set is used to predict Machine failure.
-   
-4. [Face Age progression using triple consistancy and identity loss](https://github.com/TahsinPavel/Age-progression-using-triple-consistancy-and-identity-loss): This Project based on my undergrad thesis "Enhancing StarGAN with Identity Loss, Pixel Loss and Triple Consistency Loss for Face Age Progression". Using Star Generative Adversarial Network, this model generate human face images for given age clusters. The model trained on FFHQ-Aging dataset and tested on UTK-FACE dataset.
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-5. [Handwritten Digit Recognition with PyTorch](https://github.com/TahsinPavel/Handwritten-Digit-Recognition-with-PyTorch): This convolution neural network model that trained with MNIST Handwritten digit dataset. The model can recognize Handwritten digit with the accuracy of 98%. The Loss function of this model is about 0.0003%.
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-# Skills
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-- ## Programming Languages:
-  Python, SQL
-- ## Frameworks and Libraries:
-  Numpy, Pandas, PyTorch, Tensorflow, Scikit-Learn, keras, Spark(Pyspark), 
-- ## Other Skills:
-  Machine Learning, Deep Learning, Computer Vision, Azure data factory, Azure synapse analytics, Power BI, Databricks, ETL process, Data Warehousing
+![Bike Study](/assets/img/bike_study.jpeg)
 
-# Research Work
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- ## Paper Title:
-     Enhancing StarGAN with Identity Loss, Pixel Loss, and Triple Consistency Loss for Face Age Progression.
-  
-- ## Paper Title:
-     Diagnosis of Covid-19 from chest X-Ray Image using convolution Neural Network with K-Fold Cross Validation.
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-# Contact
+## Publications
+1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
+6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
+7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- ## Email:
-  tahsinpavel@gmail.com
-  
-- ## LinkedIn:
-  [Tahsin Masruf](https://www.linkedin.com/in/tahsin-masruf/)
-  
-- ## Kaggle:
-  [Tahsin Masruf](https://www.kaggle.com/tahsinmasruf)
-
+- [Data Science Blog](https://medium.com/@shawhin)

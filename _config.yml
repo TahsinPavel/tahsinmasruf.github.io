@@ -1,4 +1,5 @@
-title: Tahsin Masruf
-logo: /assets/circle.png
-description: Researcher Enthusiast | ML/Data Engineer | Data & Machine Learning
-remote_theme: pages-themes/dinky@v0.2.0
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
